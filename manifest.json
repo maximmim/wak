@@ -1,0 +1,15 @@
+{
+    "name": "daw",
+    "short_name": "daw",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "scope": "/",
+    "offline_enabled": true,
+    "prefer_related_applications": false,
+    "lang": "ua",
+    "related_applications": []
+  
+  }
+  
